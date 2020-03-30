@@ -13,3 +13,5 @@ res = requests.get(url, auth=HTTPBasicAuth(user, password))
 
 # Affichage de la réponse
 print(res.text)
+
+
