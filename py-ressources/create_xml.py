@@ -1,4 +1,4 @@
-#/usr/bin/phyton3
+#/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 # pour utiliser le module lxml : pip3 install lxml
