@@ -46,7 +46,7 @@ import sys
 import argparse
 
 # ------------------------ #
-#dictionary containing substitutions
+#dictionary containing all substitutions
 subDictFULL = {
 	'a': ['a','A','@','4'],
 	'b': ['b','B','8','6'],
