@@ -6,12 +6,12 @@ ouverture d'un fichier avec les mots a manipuler
 dans le fichier : un mot par ligne
 
 mot de passe type:
-astrel <= base
-asTrel <= 1 cap / a mettre sur chaque lettre
-AstreL <= 2 cap / 1 debut + 1 fin
-@strel <= 1 subs
-@str3l <= 2 subs
-@streL <= 1 cap debut ou fin + 1subs
+lafabrique <= base
+lafAbrique <= 1 cap / a mettre sur chaque lettre
+LafabriquE <= 2 cap / 1 debut + 1 fin
+l@fabrique <= 1 subs
+l@fabr1que <= 2 subs
+L@fabrique <= 1 cap debut ou fin + 1subs
 
 pour chaque possibilite :
 -> on met un @ au debut
